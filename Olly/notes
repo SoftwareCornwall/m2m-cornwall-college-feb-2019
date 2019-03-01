@@ -1,0 +1,7 @@
+beep boop boop 	beep-beep
+
+beep beep
+
+
+digitalWrite = will o n l y take LOW or HIGH
+analogWrite = will take num bers (from 0 - 255)
